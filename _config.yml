@@ -4,7 +4,7 @@ title: "Spatial Biology Association"
 description: "Advancing the science and application of spatial biology!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: /sba
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
