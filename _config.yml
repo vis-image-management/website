@@ -1,7 +1,7 @@
 # Site
 name: "Spatial Biology Association"
 title: "Spatial Biology Association"
-description: <a style="color:black; href="https://ajitjohnson.com/">Spatial Biology Association</a>
+description: <a href="https://ajitjohnson.com/" style="color: red">Spatial Biology Association</a>
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sba
