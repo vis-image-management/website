@@ -1,7 +1,7 @@
 # Site
 name: "Spatial Biology Association"
 title: "Spatial Biology Association"
-description: "Advancing the science and application of spatial biology!"
+description: "Spatial Biology Association"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sba
