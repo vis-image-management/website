@@ -1,7 +1,7 @@
 # Site
 name: "Spatial Biology Association"
 title: "Spatial Biology Association"
-description: <a href="https://ajitjohnson.com/" style="color: red">Spatial Biology Association</a>
+description: <a href="https://ajitjohnson.com/" style="color:red">Spatial Biology Association</a>
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sba
@@ -81,7 +81,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
     
 # Other
