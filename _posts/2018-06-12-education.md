@@ -9,6 +9,8 @@ beforetoc: "Recording of the meeting held on Nov 9th 2021"
 toc: true
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Em8bSj33uAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Dr. Bernd Bodenmiller talks about the highly multiplexed imaging of in situ tumor ecosystems using Imaging mass cytometry. 
 
 
