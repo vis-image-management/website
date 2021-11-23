@@ -16,12 +16,52 @@ email: ajitjohsnon.n@gmail.com
 authors:
   ajit:
     name: Ajit Johnson Nirmal
-    display_name: Ajit
+    display_name: Ajit Nirmal
     avatar: 'assets/images/avatar-sal.png'
     email: ajitjohsnon.n@gmail.com
     web: https://ajitjohnson.com/
     twitter: https://twitter.com/ajitjohnson_n
     description: Cancer Geneticist @harvard
+  clarence:
+    name: Clarence Yapp
+    display_name: Clarence Yapp
+    avatar: 'assets/images/avatar-sal.png'
+    email: clarence@hms.harvard.edu
+    web: https://scholar.harvard.edu/clarence/who-clarence
+    twitter: https://twitter.com/
+    description: Director of Microscopy and Image Analysis at the Laboratory of Systems Pharmacology (LSP).
+  maren:
+    name: Maren Pein
+    display_name: Maren Pein
+    avatar: 'assets/images/avatar-sal.png'
+    email: mpein@hs.uci.edu
+    web: https://orcid.org/0000-0002-7906-5960
+    twitter: https://twitter.com/maren_pein
+    description: Postdoctoral Researcher at UC Irvine with expertise in breast cancer, microenvironment and metastasis.
+  sandhya:
+    name: Sandhya Prabhakaran
+    display_name: Sandhya Prabhakaran
+    avatar: 'assets/images/avatar-sal.png'
+    email: sandhyaprabhakaran@gmail.com
+    web: http://sandhyaprabhakaran.com/
+    twitter: https://twitter.com/sandhya212
+    description: Applied Research Scientist with Dr. Alexander Anderson at the Integrated Mathematical Oncology Department, Moffitt Cancer Centre.
+  charley:
+    name: Charley Xi
+    display_name: Charley Xi
+    avatar: 'assets/images/avatar-sal.png'
+    email: zxi1@bu.edu
+    web: https://www.bumc.bu.edu/compbiomed/people/post-doctorates/
+    twitter: https://twitter.com/
+    description: Grad student at Molecular and Translational Medicine- faculty mentor Sarah Mazzilli,  Jennifer Beane
+  angela:
+    name: Angela Kruse
+    display_name: Angela Kruse
+    avatar: 'assets/images/avatar-sal.png'
+    email: angela.kruse@vanderbilt.edu
+    web: https://medschool.vanderbilt.edu/msrc/person/643/
+    twitter: https://twitter.com/arkannie
+    description: Postdoctoral Fellow at Vanderbilt University. Interested in insect disease vectors, proteomics, imaging mass spectrometry.
 
 # Plugins
 plugins:
