@@ -17,7 +17,7 @@ authors:
   ajit:
     name: Ajit Johnson Nirmal
     display_name: Ajit Nirmal
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/ajit.png'
     email: ajitjohsnon.n@gmail.com
     web: https://ajitjohnson.com/
     twitter: https://twitter.com/ajitjohnson_n
@@ -25,7 +25,7 @@ authors:
   clarence:
     name: Clarence Yapp
     display_name: Clarence Yapp
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/clarence.png'
     email: clarence@hms.harvard.edu
     web: https://scholar.harvard.edu/clarence/who-clarence
     twitter: https://twitter.com/
@@ -33,7 +33,7 @@ authors:
   maren:
     name: Maren Pein
     display_name: Maren Pein
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/maren.png'
     email: mpein@hs.uci.edu
     web: https://orcid.org/0000-0002-7906-5960
     twitter: https://twitter.com/maren_pein
@@ -41,7 +41,7 @@ authors:
   sandhya:
     name: Sandhya Prabhakaran
     display_name: Sandhya Prabhakaran
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/sandhya.png'
     email: sandhyaprabhakaran@gmail.com
     web: http://sandhyaprabhakaran.com/
     twitter: https://twitter.com/sandhya212
@@ -57,7 +57,7 @@ authors:
   angela:
     name: Angela Kruse
     display_name: Angela Kruse
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/angela.png'
     email: angela.kruse@vanderbilt.edu
     web: https://medschool.vanderbilt.edu/msrc/person/643/
     twitter: https://twitter.com/arkannie
