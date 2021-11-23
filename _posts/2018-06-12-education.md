@@ -2,7 +2,7 @@
 layout: post
 title:  "Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine by Dr. Bernd Bodenmiller"
 author: ajit
-categories: [ keynote, 2021 ]
+categories: [ keynote, '2021' ]
 date: 2021-11-09T14:00:00Z
 image: assets/images/bodenmiller.png
 beforetoc: "Recording of the meeting held on Nov 9th 2021"
