@@ -9,8 +9,17 @@ imageshadow: true
 
 <div><span class="h4">Please Join the <b>SBA Network</b> by completing <a href="https://forms.gle/wj51xS2CN3jLDAfi6" target="_blank">this form </a> to receive invites with the zoom link</span></div>
 
+<hr>
+
 ## The Spatial Biology Association meets the second week of every month on Wednesday 2pm (EST)
 
+<hr>
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 | Date/Time (in EST) | Speaker                                  | Talk Title                                                                        | Recording                                                     |
 | ------------------ | ---------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Nov 9 2021 (2pm)   | Bernd Bodenmiller (University of Zurich) | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/) |
