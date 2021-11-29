@@ -7,7 +7,7 @@ image: assets/images/schedule.png
 imageshadow: true
 ---
 
-<div><span class="h4">Please Join the <b>SBA Network</b> by completing <a href="https://forms.gle/wj51xS2CN3jLDAfi6" target="_blank">this form </a> to receive zoom invites</span></div>
+<div><span class="h4">Please Join the <b>SBA Network</b> by completing <a href="https://forms.gle/wj51xS2CN3jLDAfi6" target="_blank">this form </a> to receive the zoom invites.</span></div>
 
 <hr>
 
