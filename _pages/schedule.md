@@ -12,8 +12,6 @@ imageshadow: false
 <hr>
 
 The Spatial Biology Association meets during the *second week of every month on wednesday at 2pm (EST)*
-
-<hr>
 <br>
 
 <style>
