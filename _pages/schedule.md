@@ -15,7 +15,6 @@ The Spatial Biology Association meets during the *second week of every month on 
 
 <hr>
 <br>
-<br>
 
 <style>
 table, th, td {
