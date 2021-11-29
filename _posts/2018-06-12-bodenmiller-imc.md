@@ -4,7 +4,7 @@ title:  "Highly multiplexed imaging of in situ tumor ecosystems towards precisio
 author: ajit
 categories: [ keynote, '2021' ]
 date: 2021-11-09T14:00:00Z
-image: assets/images/bodenmiller.png
+image: assets/images/talks/bodenmiller.png
 beforetoc: "Recording of the meeting held on Nov 9th 2021"
 toc: true
 ---
