@@ -26,4 +26,8 @@ table, th, td {
 | Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)  | TBD                                                                               |                                                               |
 | Jan 12 2022 (2pm)  | Michael Snyder (Stanford Univesity)      | TBD                                                                               |                                                               |
 | Feb 9 2022 (2pm)   | Ed Boyden (MIT)                          | TBD                                                                               |                                                               |
+| Mar 9 2022 (2pm)   | TBD                                      | TBD                                                                               |                                                               |
+| Apr 6 2022 (2pm)   | TBD                                      | TBD                                                                               |                                                               |
+| May 11 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
+
 
