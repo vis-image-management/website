@@ -23,7 +23,7 @@ table, th, td {
 | Date/Time (in EST) | Speaker                                  | Talk Title                                                                        | Recording                                                     |
 | ------------------ | ---------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Nov 9 2021 (2pm)   | Bernd Bodenmiller (University of Zurich) | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/) |
-| Dec 8 2021 (2pm)   | TBD                                      |             TBD                                                                      |                                                               |
+| Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)                                      |             TBD                                                                      |                                                               |
 | Jan 12 2022 (2pm)  | TBD                                      |               TBD                                                                    |                                                               |
 | Feb 9 2022 (2pm)   | Ed Boyden (MIT)                      |                          TBD                                                         |                                                               |
 
