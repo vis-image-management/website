@@ -23,11 +23,11 @@ table, th, td {
 | Date/Time (in EST) | Speaker                                  | Talk Title                                                                        | Recording                                                     |
 | ------------------ | ---------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Nov 9 2021 (2pm)   | Bernd Bodenmiller (University of Zurich) | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/) |
-| Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)  | TBD                                                                               |                                                               |
-| Jan 12 2022 (2pm)  | Michael Snyder (Stanford Univesity)      | TBD                                                                               |                                                               |
-| Feb 9 2022 (2pm)   | Ed Boyden (MIT)                          | TBD                                                                               |                                                               |
+| Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)  | Imaging the Transcriptome - Creating Tissue Atlases with MERFISH                                                                                |       Not Recorded                                                        |
+| Jan 12 2022 (2pm)  | Michael Snyder (Stanford Univesity)      | Spatial Mapping the Human Intestine                                                                             |        [LINK](https://spatialbiology.github.io/sba/snyder-hubmap/)                                                       |
+| Feb 9 2022 (2pm)   | TBD                          | TBD                                                                               |                                                               |
 | Mar 9 2022 (2pm)   | TBD                                      | TBD                                                                               |                                                               |
-| Apr 6 2022 (2pm)   | TBD                                      | TBD                                                                               |                                                               |
+| Apr 13 2022 (2pm)   | Ed Boyden (MIT)                                      | TBD                                                                               |                                                               |
 | May 11 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
-
+| June 15 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
 
