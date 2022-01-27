@@ -28,6 +28,6 @@ table, th, td {
 | Feb 9 2022 (2pm)   | TBD                          | TBD                                                                               |                                                               |
 | Mar 9 2022 (2pm)   | Fei Chen (Broad Institute, Harvard University)                                      | TBD                                                                               |                                                               |
 | Apr 13 2022 (2pm)   | Ed Boyden (MIT)                                      | TBD                                                                               |                                                               |
-| May 11 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
+| May 11 2022 (2pm)  | Emma Lundberg (Stanford Univesity)                                     | TBD                                                                               |                                                               |
 | June 15 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
 
