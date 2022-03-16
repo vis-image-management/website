@@ -25,6 +25,6 @@ The next meeting will be announced on our [Twitter handle:](https://twitter.com/
 - Announcements made on release of website
 - Announcemnets made on formation of twitter
 - Plan to meet at AACR conference
-- Science talk by Dr. Fei Cheb
+- Science talk by Dr. Fei Chen
 
 
