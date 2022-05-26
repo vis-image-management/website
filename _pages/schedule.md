@@ -20,13 +20,13 @@ table, th, td {
   padding: 0.5em;
 }
 </style>
-| Date/Time (in EST) | Speaker                                  | Talk Title                                                                        | Recording                                                     |
-| ------------------ | ---------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Nov 9 2021 (2pm)   | Bernd Bodenmiller (University of Zurich) | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/) |
-| Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)  | Imaging the Transcriptome - Creating Tissue Atlases with MERFISH                                                                                |       Not Recorded                                                        |
-| Jan 12 2022 (2pm)  | Michael Snyder (Stanford Univesity)      | Spatial Mapping the Human Intestine                                                                             |        [LINK](https://spatialbiology.github.io/sba/snyder-hubmap/)                                                       |
-| Mar 9 2022 (2pm)   | Fei Chen (Broad Institute, Harvard University)                                      | Tissue genomics: genomic measurements in context                                                                               |  [LINK](https://spatialbiology.github.io/sba/fei-chen-spatial-dna)                                                             |
-| Apr 13 2022 (2pm)   | Ed Boyden (MIT)                                      | TBD                                                                               |                                                               |
-| May 11 2022 (2pm)  | Emma Lundberg (Stanford Univesity)                                     | TBD                                                                               |                                                               |
-| June 15 2022 (2pm)  | TBD                                      | TBD                                                                               |                                                               |
+| Date/Time (in EST) | Speaker                                        | Talk Title                                                                        | Recording                                                         |
+|--------------------|------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Nov 9 2021 (2pm)   | Bernd Bodenmiller (University of Zurich)       | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/)     |
+| Dec 8 2021 (2pm)   | Jeffrey R. Moffitt (Harvard University)        | Imaging the Transcriptome - Creating Tissue Atlases with MERFISH                  | Not Recorded                                                      |
+| Jan 12 2022 (2pm)  | Michael Snyder (Stanford Univesity)            | Spatial Mapping the Human Intestine                                               | [LINK](https://spatialbiology.github.io/sba/snyder-hubmap/)       |
+| Mar 9 2022 (2pm)   | Fei Chen (Broad Institute, Harvard University) | Tissue genomics: genomic measurements in context                                  | [LINK](https://spatialbiology.github.io/sba/fei-chen-spatial-dna) |
+| Apr 13 2022 (2pm)  | Ed Boyden (MIT)                                | TBD                                                                               |                                                                   |
+| May 11 2022 (2pm)  | Emma Lundberg (Stanford Univesity)             | TBD                                                                               |                                                                   |
+| June 15 2022 (2pm) | TBD                                            | TBD                                                                               |                                                                   |
 
