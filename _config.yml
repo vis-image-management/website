@@ -49,7 +49,7 @@ authors:
   charley:
     name: Charley Xi
     display_name: Charley Xi
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/authors/charley.png'
     email: zxi1@bu.edu
     web: https://www.bumc.bu.edu/compbiomed/people/post-doctorates/
     twitter: https://twitter.com/
@@ -62,6 +62,14 @@ authors:
     web: https://medschool.vanderbilt.edu/msrc/person/643/
     twitter: https://twitter.com/arkannie
     description: Postdoctoral Fellow at Vanderbilt University. Interested in insect disease vectors, proteomics, imaging mass spectrometry.
+  robert:
+    name: Robert Krueger
+    display_name: Robert Krueger
+    avatar: 'assets/images/authors/robert.png'
+    email: krueger@g.harvard.edu
+    web: https://kruegert.github.io/
+    twitter: https://mobile.twitter.com/robertk_vis
+    description: Postdoctoral Research Scientist for biomedical visualization and visual analytics at Visual Computing Group (VCG) and Laboratory of Systems Pharmacology (LSP) @Harvard.
 
 # Plugins
 plugins:
