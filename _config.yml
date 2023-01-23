@@ -4,9 +4,9 @@ title: "Spatial Biology Association"
 description: <a href="/sba" style="color:black">Spatial Biology Association</a>
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /sba
+baseurl: /website
 google_analytics: 'G-EBSP79RQR7'
-disqus: 'sba'
+disqus: 'website'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
