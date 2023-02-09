@@ -22,7 +22,6 @@ authors:
     web: https://kruegert.github.io/
     twitter: https://mobile.twitter.com/robertk_vis
     description: Postdoctoral Research Scientist for biomedical visualization and visual analytics at Visual Computing Group (VCG) and Laboratory of Systems Pharmacology (LSP) @Harvard.
-
   allison:
     name: Allison Maier
     display_name: Allison Maier
@@ -31,8 +30,7 @@ authors:
     web: https://kruegert.github.io/
     twitter: https://mobile.twitter.com/robertk_vis
     description: Postdoctoral Research Scientist for biomedical visualization and visual analytics at Visual Computing Group (VCG) and Laboratory of Systems Pharmacology (LSP) @Harvard.
-    
-   mark:
+  mark:
     name: Mark Keller
     display_name: Mark Keller
     avatar: 'assets/images/authors/robert.png'
