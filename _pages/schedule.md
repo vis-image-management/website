@@ -3,15 +3,14 @@ layout: page
 title: Meeting schedule
 permalink: /schedule
 comments: false
-image: assets/images/schedule.png
 imageshadow: false
 ---
 
-<div><span class="h4">Please Join the <b>SBA Network</b> by completing <a href="https://forms.gle/wj51xS2CN3jLDAfi6" target="_blank">this form </a> to receive zoom invites.</span></div>
+<div><span class="h4">Please Join the <b>Visualization and Image Data Management</b> group by completing <a href="https://forms.gle/2NK9YHGAcU5zsmHf8" target="_blank">this form </a> to receive zoom invites.</span></div>
 
 <hr>
 
-The Spatial Biology Association meets during the *second week of every month on wednesday at 2pm (EST)*
+The group meets *one Friday each month at 11am (EST)*
 <br>
 
 <style>
@@ -20,18 +19,24 @@ table, th, td {
   padding: 0.5em;
 }
 </style>
-| Date/Time (in EST)     | Speaker                                                  | Talk Title                                                                                | Recording                                                                    |
-|------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Nov 9 2021 (2pm)       | Dr. Bernd Bodenmiller (University of Zurich)             | Highly multiplexed imaging of in situ tumor ecosystems towards precision medicine         | [LINK](https://spatialbiology.github.io/sba/bodenmiller-imc/)                |
-| Dec 8 2021 (2pm)       | Dr. Jeffrey R. Moffitt (Harvard University)              | Imaging the Transcriptome - Creating Tissue Atlases with MERFISH                          | Not Recorded                                                                 |
-| Jan 12 2022 (2pm)      | Dr. Michael Snyder (Stanford Univesity)                  | Spatial Mapping the Human Intestine                                                       | [LINK](https://spatialbiology.github.io/sba/snyder-hubmap/)                  |
-| Mar 9 2022 (2pm)       | Dr. Fei Chen (Broad Institute, Harvard University)       | Tissue genomics: genomic measurements in context                                          | [LINK](https://spatialbiology.github.io/sba/fei-chen-spatial-dna)            |
-| Apr 13 2022 (2pm)      | Dr. Ed Boyden (MIT)                                      | Tools for Analyzing and Controlling Biological Systems                                    | [LINK](https://spatialbiology.github.io/sba/ed-boyden-expansion-microscopy)  |
-| May 11 2022 (2pm)      | Dr. Emma Lundberg (Stanford Univesity)                   | Mapping the Spatiotemporal Proteome Architecture of Human Cells                           | [LINK](https://spatialbiology.github.io/sba/emma-lundberg-proteome-atlas)    |
-| June 15 2022 (2pm)     | Members                                                  | Discussion on spatial technologies                                                        | [LINK](https://spatialbiology.github.io/sba/cycif-codex-slideseq-discussion) |
-| July 13 2022 (2pm)     | Dr. Rong Fan (Yale University)                           | Spatial Omics Driving the Next Wave of Biomedical Research Revolution                     | [LINK](https://spatialbiology.github.io/sba/rong-fan-spatial-omics-tools)    |
-| August 10 2022 (2pm)   | Members                                                  | Discussion on spatial technologies                                                        |                                                                              |
-| September 7 2022 (2pm) | Dr. Joakim Lundeberg (KTH Royal Institute of Technology) | Spatially resolved methodology to capture cancer clones and early events in benign tissue |                                                                              |
-| October 12 2022 (2pm)  | TBD                                                      | TBD                                                                                       |                                                                              |
-| November 9 2022 (2pm)  | TBD                                                      | TBD                                                                                       |                                                                              |
-| December 14 2022 (2pm) | TBD                                                      | TBD                                                                                       |                                                                              |
+| Date/Time (in EST)     | Speaker                                                  | Talk Title                                                                                |
+|------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| TBD | TBD                                                      | TBD                                                                                       |
+| May 20, 2022 (11am) | Clarence Yapp, Ilan Gold, Lukas Herzberger, Steve Pieper | Viewers for Multiplexed 3D Imaging Data |
+| April 8, 2022 | A. Fedorov, N. Gehlenborg, M. Herrmann, J. Hoffer, R. Krueger, T. Manz, J. Muhlich, H. Pfister, S. Pieper, S. Warchol, C. Yapp| Overview of Image Viewers |
+| March 11, 2022 | Jeremy Muhlich (lead), Nils Gehlenborg, Nhan Huynh, and Robert Krueger | Image rendering: perceptual and technical issues |
+| February 11, 2022 | Jeremy Muhlich | Discussion: Color Models for Display of Microscopy Images         |
+| January 14, 2022 (11am) | Fedorov Group  | NCI Imaging Data Commons: Approach, status, related tools|
+| December 16, 2021 (9am) | Jeremy Muhlich, John Hoffer Hoffer, Robert Krueger | Minerva - Multiplexed Tissue Visualization for Interactive Data Stories and Data Analysis |
+| November 22, 2021 (10:30am) | Ilan Gold, Mark Keller, Nils Gehlenborg (Harvard Medical School) | Viv, Vitessce and future plans                                       |
+| October 28, 2021 (9am)       | Sebastién Besson, Josh Moore (OME, Glencoe)             | OME's and Glencoe's work on NGFF file formats         |
