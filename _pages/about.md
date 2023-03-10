@@ -3,12 +3,13 @@ layout: page
 title: Mission Statement
 permalink: /about
 comments: false
-image: assets/images/mission.png
 imageshadow: true
 ---
 
-It is is the mission of the Spatial Biology Association to improve disease outcomes by advancing the science, development, and application of spatial biology through our core values of interaction/integration, innovation, translation, and leadership in the field.
-- **Education and Scientific Exchange:** Serve as the leading platform for education and establishing collaborations to build innovative technologies and computational methods for harnessing the power of spatial biology
-- **Standards:** Set and share standards for the field of spatial biology
-- **Science and Research:** Promote inter-disciplinary collaborations to drive the best research in spatial biology in order to understand the fundamentals of tissue development, organization, and disease progression.
-- **Leadership Development:** Cultivate the next generation of leaders and innovators in spatial biology
+It is is the mission of the group to advance the development and application of approaches for Visualization and Image Data Management through our core values of education, community, and collaboration.
+
+
+Topics of interest for the group include:
+- **Educational and Scientific Exchange:** Exchange knowledge and learn about new visualization techniques in the fields of digital pathology and biomedical image analysis. Learn about emerging research and new standards. Identify opportunities to improve educational methods and resources.
+- **Community:** Get to know others who work on visualization and data management solutions in the field and learn about their goals.
+- **Collaboration:** Find common interests and research questions. Identify collaborative opportunities for joint work. Build opon the work (and tools, formats, libraries) of others synergistically.

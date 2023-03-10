@@ -1,7 +1,7 @@
 # Site
 name: "VIM - Visualization and Image Data Management"
 title: "Visualization and Image Data Management"
-description: <a href="/sba" style="color:black">Visualization and Image Data Management</a>
+description: <a href="/website/" style="color:black">Visualization and Image Data Management</a>
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /website
@@ -11,6 +11,7 @@ mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: krueger@g.harvard.edu
+comments: false
 
 # Authors
 authors:
@@ -25,19 +26,17 @@ authors:
   allison:
     name: Allison Maier
     display_name: Allison Maier
-    avatar: 'assets/images/authors/robert.png'
-    email: krueger@g.harvard.edu
+    email: Allison_Maier@hms.harvard.edu
     web: https://kruegert.github.io/
     twitter: https://mobile.twitter.com/robertk_vis
     description: Postdoctoral Research Scientist for biomedical visualization and visual analytics at Visual Computing Group (VCG) and Laboratory of Systems Pharmacology (LSP) @Harvard.
   mark:
     name: Mark Keller
     display_name: Mark Keller
-    avatar: 'assets/images/authors/robert.png'
-    email: krueger@g.harvard.edu
-    web: https://kruegert.github.io/
-    twitter: https://mobile.twitter.com/robertk_vis
-    description: Postdoctoral Research Scientist for biomedical visualization and visual analytics at Visual Computing Group (VCG) and Laboratory of Systems Pharmacology (LSP) @Harvard.   
+    email: mark_keller@hms.harvard.edu
+    web: https://markk.co
+    twitter: https://mobile.twitter.com/keller__mark
+    description: PhD Student in Bioinformatics and Integrative Genomics and Gehlenborg Lab at Harvard Medical School.   
 
 # Plugins
 plugins:
@@ -78,7 +77,7 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
